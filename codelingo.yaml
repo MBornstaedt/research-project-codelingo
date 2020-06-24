@@ -1,0 +1,4 @@
+# codelingo.yaml file
+
+rules:
+  - import: codelingo/go
