@@ -1,2 +1,2 @@
 rules:
-  - import: codelingo/go
+  - import: codelingo/effective-go
