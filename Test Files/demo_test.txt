@@ -1,0 +1,3 @@
+func (fs *FileSet) Contains(id string) bool {
+      if _, ok := fs.index[id]; ok {
+              return true
